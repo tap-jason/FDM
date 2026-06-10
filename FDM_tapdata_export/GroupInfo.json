@@ -1,0 +1,19 @@
+[ {
+  "collectionName" : "GroupInfo",
+  "json" : {
+    "description" : "",
+    "gitInfo" : {
+      "branch" : "main",
+      "repoUrl" : "https://github.com/tap-jason/FDM.git"
+    },
+    "id" : "6a29081173cffd4db0056328",
+    "name" : "FDM",
+    "resetTaskList" : [ ],
+    "resourceItemList" : [ {
+      "id" : "6a21269c4c497de2ac0137b9",
+      "name" : "fdm task",
+      "type" : "MIGRATE_TASK"
+    } ],
+    "user_id" : "6a15028a5a740571770cdb07"
+  }
+} ]
